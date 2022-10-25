@@ -1,4 +1,4 @@
-## This is the Git Tutorial by Lakshay Malhotra Data Scientist
+## This is the Git Tutorial by Lakshay Malhotra Data Scientist in Bangalore
 
 
 
