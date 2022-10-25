@@ -1,4 +1,4 @@
-## This is the Git Tutorial by Lakshay Malhotra Data Scientist working in zestmoney
+## This is the Git Tutorial by Lakshay Malhotra Data Scientist
 
-you can read this file
+
 
